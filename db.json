@@ -5,5 +5,97 @@
       "email": "admin@shoppingfarma.com",
       "password": "123456"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Dipirona 500mg",
+      "description": "Analgésico e antitérmico",
+      "price": 8.99,
+      "quantity": 20,
+      "image": "https://via.placeholder.com/150?text=Dipirona",
+      "category": "medicamentos"
+    },
+    {
+      "id": 2,
+      "name": "Paracetamol 750mg",
+      "description": "Alívio de dores e febre",
+      "price": 9.49,
+      "quantity": 15,
+      "image": "https://via.placeholder.com/150?text=Paracetamol",
+      "category": "medicamentos"
+    },
+    {
+      "id": 3,
+      "name": "Vitamina C 1g",
+      "description": "Fortalece o sistema imunológico",
+      "price": 12.99,
+      "quantity": 30,
+      "image": "https://via.placeholder.com/150?text=Vitamina+C",
+      "category": "medicamentos"
+    },
+    {
+      "id": 4,
+      "name": "Hidratante Facial Neutrogena",
+      "description": "Pele hidratada e protegida",
+      "price": 34.90,
+      "quantity": 10,
+      "image": "https://via.placeholder.com/150?text=Neutrogena",
+      "category": "skin care"
+    },
+    {
+      "id": 5,
+      "name": "Sabonete Facial Nivea",
+      "description": "Limpeza suave para o rosto",
+      "price": 17.50,
+      "quantity": 25,
+      "image": "https://via.placeholder.com/150?text=Nivea+Sabonete",
+      "category": "skin care"
+    },
+    {
+      "id": 6,
+      "name": "Protetor Solar Facial FPS 60",
+      "description": "Alta proteção contra raios UV",
+      "price": 49.90,
+      "quantity": 18,
+      "image": "https://via.placeholder.com/150?text=Protetor+Solar",
+      "category": "skin care"
+    },
+    {
+      "id": 7,
+      "name": "Shampoo Seda Liso Extremo",
+      "description": "Controle do frizz e maciez",
+      "price": 10.90,
+      "quantity": 22,
+      "image": "https://via.placeholder.com/150?text=Shampoo+Seda",
+      "category": "cabelo"
+    },
+    {
+      "id": 8,
+      "name": "Condicionador Dove Reconstrução",
+      "description": "Nutrição profunda dos fios",
+      "price": 12.50,
+      "quantity": 19,
+      "image": "https://via.placeholder.com/150?text=Condicionador+Dove",
+      "category": "cabelo"
+    },
+    {
+      "id": 9,
+      "name": "Máscara Capilar Pantene",
+      "description": "Hidratação intensa",
+      "price": 24.90,
+      "quantity": 12,
+      "image": "https://via.placeholder.com/150?text=Pantene+Máscara",
+      "category": "cabelo"
+    },
+    {
+      "id": 10,
+      "name": "Spray Capilar TRESemmé",
+      "description": "Finalização e brilho",
+      "price": 18.90,
+      "quantity": 16,
+      "image": "https://via.placeholder.com/150?text=Spray+TRESemmé",
+      "category": "cabelo"
+    }
   ]
 }
