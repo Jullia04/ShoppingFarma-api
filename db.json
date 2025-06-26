@@ -2,7 +2,14 @@
   "users": [
     {
       "id": 1,
-      "email": "admin@shoppingfarma.com",
+      "name": "Jullia Manhães",
+      "email": "jullia@shoppingfarma.com",
+      "password": "123456"
+    }
+    {
+      "id": 2,
+      "name": "Jocimar Galante",
+      "email": "jocimar@shoppingfarma.com",
       "password": "123456"
     }
   ],
